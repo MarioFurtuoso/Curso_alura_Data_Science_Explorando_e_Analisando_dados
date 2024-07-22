@@ -61,3 +61,9 @@ Nessa aula, aprendi a:
  - Comparar diferentes registros e investigar as diferenças entre eles visualmente por meio das medidas de tendência central e gráficos de distribuição de dados.
 
 Clique [aqui](./Modulos/06_Estatística_dos_Dados.ipynb) para acessar o Módulo 6.
+
+## Filtrando os filmes com mais de 19 notas
+
+No final do curso o professor verificou que muitos filmes tinham apenas uma ou poucas notas, assim prejudicando a média das notas dos filmes. Com isso apliquei um filtro para os filmes com mais de 19 notas, mostrando um gráfico mais limpo, onde as notas 3.0 e 4.0 já não eram tão concentradas como imaginavamos que eram.
+
+Clique [aqui](./Modulos/Filtrando_filmes_com_notas_maiores_que_19.ipynb) para acessar o filtro.
